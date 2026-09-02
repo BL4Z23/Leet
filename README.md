@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BL4Z23/Leet/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/BL4Z23/Leet/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/BL4Z23/Leet/tree/master/0119-pascals-triangle-ii) |
 ## Dynamic Programming
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/BL4Z23/Leet/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/BL4Z23/Leet/tree/master/0119-pascals-triangle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/BL4Z23/Leet/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/BL4Z23/Leet/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
