@@ -1,18 +1,16 @@
 class Solution {
 public:
     int lengthOfLastWord(string s) {
-        int i = 1;
-        int word = 0;
-
-        while (i < s.size() && s[s.size()-i] == ' ') {
-            ++i;
-        };
-
-        while (i <= s.size() && s[s.size()-i] != ' ') {
-            ++i;
-            ++word;
-        };
-        return word;
-        
+        reverse(s.begin(), s.end());
+            int i = 0;
+            while (s[i] == ' ') {
+                ++i;
+            }
+            size_t pos = s.find(' ', i);
+            if (pos != std::string::npos) {
+                return pos - i;
+            } else {
+                return s.length() - i;
+            };
     }
 };
