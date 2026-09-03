@@ -21,6 +21,6 @@ public:
                 }
             }
         }
-        return sta.empty();
+        return !sta.empty();
     }
 };
