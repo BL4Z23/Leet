@@ -21,10 +21,6 @@ public:
                 }
             }
         }
-        if (!sta.empty()) {
-            return false;
-        } else {
-            return true;
-        };
+        return sta.empty();
     }
 };
