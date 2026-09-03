@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/BL4Z23/Leet/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/BL4Z23/Leet/tree/master/0058-length-of-last-word) |
 ## Matrix
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/BL4Z23/Leet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/BL4Z23/Leet/tree/master/0059-spiral-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/BL4Z23/Leet/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/BL4Z23/Leet/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
