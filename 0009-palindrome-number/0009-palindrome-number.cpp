@@ -4,12 +4,14 @@ public:
         if (x < 0) {
             return false;
         }
-        std::string sx = std::to_string(x);
-        for (int i = 0; i <= (sx.length()/2); ++i) {
-            if (sx[i] != sx[sx.length()-i-1]) {
-                return false;
-            }
+        int d = x;
+        long long rev = 0;
+        int digit = 0;
+        while (x > 0) {
+            digit = x%10;
+            rev = rev*10 + digit;
+            x /= 10;
         }
-        return true;
+        return rev == d;
     }
 };
