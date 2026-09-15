@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BL4Z23/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/BL4Z23/Leet/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/BL4Z23/Leet/tree/master/0058-length-of-last-word) |
 ## Matrix
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BL4Z23/Leet/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BL4Z23/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BL4Z23/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
