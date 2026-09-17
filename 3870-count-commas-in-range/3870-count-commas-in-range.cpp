@@ -11,7 +11,6 @@ public:
             t = n - 1000000 + 1;
             commas += t;
         }
-
         return commas;
     }
 };
