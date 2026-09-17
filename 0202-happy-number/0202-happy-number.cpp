@@ -3,7 +3,7 @@ public:
     bool isHappy(int n) {
         int digit =  0;
         int split;
-        unordered_set<int> seen;
+        set<int> seen;
         while (n != 1) {
             split = 0;
             while (n>0) {
