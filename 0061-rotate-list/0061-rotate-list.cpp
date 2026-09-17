@@ -20,6 +20,9 @@ public:
             i = i->next;
             ++leng;
         } 
+        if (k == leng+1) {
+            return head;
+        }
         if (k > leng) {
             k = k%(leng+1);
         }
