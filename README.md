@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BL4Z23/Leet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/BL4Z23/Leet/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/BL4Z23/Leet/tree/master/0061-rotate-list) |
+| [0202-happy-number](https://github.com/BL4Z23/Leet/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/BL4Z23/Leet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/BL4Z23/Leet/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/BL4Z23/Leet/tree/master/0202-happy-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/BL4Z23/Leet/tree/master/2119-a-number-after-a-double-reversal) |
 ## Linked List
 |  |
@@ -73,8 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BL4Z23/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/BL4Z23/Leet/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BL4Z23/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/BL4Z23/Leet/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
