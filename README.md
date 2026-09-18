@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/BL4Z23/Leet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/BL4Z23/Leet/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BL4Z23/Leet/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/BL4Z23/Leet/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/BL4Z23/Leet/tree/master/0202-happy-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/BL4Z23/Leet/tree/master/2119-a-number-after-a-double-reversal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/BL4Z23/Leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
