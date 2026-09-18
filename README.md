@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/BL4Z23/Leet/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/BL4Z23/Leet/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/BL4Z23/Leet/tree/master/0119-pascals-triangle-ii) |
+| [3903-smallest-stable-index-i](https://github.com/BL4Z23/Leet/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/BL4Z23/Leet/tree/master/0202-happy-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/BL4Z23/Leet/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
