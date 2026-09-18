@@ -4,7 +4,7 @@ public:
         stack<int> s;
         std::unordered_set<std::string> op = {"+", "-", "*", "/"};
         int a, b;
-        for (int i=0; i <= tokens.size()-1; ++i) {
+        for (int i=0; i < tokens.size(); ++i) {
             if (op.count(tokens[i])) {
                 b = s.top();
                 s.pop();
