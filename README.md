@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/BL4Z23/Leet/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/BL4Z23/Leet/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/BL4Z23/Leet/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/BL4Z23/Leet/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/BL4Z23/Leet/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BL4Z23/Leet/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/BL4Z23/Leet/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/BL4Z23/Leet/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/BL4Z23/Leet/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/BL4Z23/Leet/tree/master/0202-happy-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/BL4Z23/Leet/tree/master/2119-a-number-after-a-double-reversal) |
