@@ -1,16 +1,15 @@
 class Solution {
 public:
     int countCommas(int n) {
-        int commas = 0;
-        int t;
-        if (n >= 1000) {
-            t = n - 999;
-            commas += t;
+        int num = 1;
+        int comma = 0;
+        for (int num = 1; num <= 2; ++num ) {
+            if (n >= pow(1000, num)) {
+                comma += (n - pow(1000, num) + 1);
+            } else {
+                break;
+            }
         }
-        if (n >= 1000000) {
-            t = n - 1000000 + 1;
-            commas += t;
-        }
-        return commas;
+        return comma;
     }
 };
