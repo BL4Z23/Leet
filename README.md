@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/BL4Z23/Leet/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BL4Z23/Leet/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BL4Z23/Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/BL4Z23/Leet/tree/main/0189-rotate-array/) | Medium |
 | [1929-concatenation-of-array](https://github.com/BL4Z23/Leet/tree/main/1929-concatenation-of-array/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/BL4Z23/Leet/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/BL4Z23/Leet/tree/master/3903-smallest-stable-index-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/BL4Z23/Leet/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/BL4Z23/Leet/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BL4Z23/Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/BL4Z23/Leet/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/BL4Z23/Leet/tree/master/0202-happy-number) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/BL4Z23/Leet/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/BL4Z23/Leet/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/BL4Z23/Leet/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0189-rotate-array](https://github.com/BL4Z23/Leet/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/BL4Z23/Leet/tree/master/0202-happy-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/BL4Z23/Leet/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/BL4Z23/Leet/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
