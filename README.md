@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/BL4Z23/Leet/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/BL4Z23/Leet/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BL4Z23/Leet/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BL4Z23/Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/BL4Z23/Leet/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/BL4Z23/Leet/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BL4Z23/Leet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/BL4Z23/Leet/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/BL4Z23/Leet/tree/master/0061-rotate-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BL4Z23/Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/BL4Z23/Leet/tree/master/0202-happy-number) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/BL4Z23/Leet/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BL4Z23/Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
