@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/BL4Z23/Leet/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/BL4Z23/Leet/tree/master/0202-happy-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/BL4Z23/Leet/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/BL4Z23/Leet/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/BL4Z23/Leet/tree/master/2119-a-number-after-a-double-reversal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/BL4Z23/Leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/BL4Z23/Leet/tree/master/3870-count-commas-in-range) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BL4Z23/Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/BL4Z23/Leet/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
