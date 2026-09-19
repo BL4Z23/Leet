@@ -2,8 +2,8 @@ class Solution {
 public:
     bool checkOverlap(int radius, int xCenter, int yCenter, int x1, int y1, int x2, int y2) {
 
-        double dx = max(x1, min(xCenter, x2)) - xCenter;
-        double dy = max(y1, min(yCenter, y2)) - yCenter;
+        int dx = max(x1, min(xCenter, x2)) - xCenter;
+        int dy = max(y1, min(yCenter, y2)) - yCenter;
 
         return dx * dx + dy * dy <= radius * radius;
     }
