@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BL4Z23/Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/BL4Z23/Leet/tree/main/0189-rotate-array/) | Medium |
 | [1929-concatenation-of-array](https://github.com/BL4Z23/Leet/tree/main/1929-concatenation-of-array/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/BL4Z23/Leet/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/BL4Z23/Leet/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/BL4Z23/Leet/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/BL4Z23/Leet/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/BL4Z23/Leet/tree/master/0119-pascals-triangle-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/BL4Z23/Leet/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/BL4Z23/Leet/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/BL4Z23/Leet/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/BL4Z23/Leet/tree/master/2119-a-number-after-a-double-reversal) |
+| [3524-find-x-value-of-array-i](https://github.com/BL4Z23/Leet/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/BL4Z23/Leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/BL4Z23/Leet/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/BL4Z23/Leet/tree/master/3871-count-commas-in-range-ii) |
