@@ -7,8 +7,8 @@ public:
             ind[nums[i]].push_back(i);
         }
         for (auto& [key, values] : ind) {
-            if (ind[key].size() == 3) {
-                if (ind[key][1] - ind[key][0] == ind[key][2] - ind[key][1]) {
+            if (values.size() == 3) {
+                if (values[1] - values[0] == values[2] - values[1]) {
                     ++ans;
                 }
             }
