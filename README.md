@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/BL4Z23/Leet/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BL4Z23/Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/BL4Z23/Leet/tree/main/0189-rotate-array/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BL4Z23/Leet/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/BL4Z23/Leet/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BL4Z23/Leet/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/BL4Z23/Leet/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/BL4Z23/Leet/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/BL4Z23/Leet/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/BL4Z23/Leet/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BL4Z23/Leet/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/BL4Z23/Leet/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BL4Z23/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/BL4Z23/Leet/tree/master/0202-happy-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BL4Z23/Leet/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
