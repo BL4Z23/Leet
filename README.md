@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/BL4Z23/Leet/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3898-find-the-degree-of-each-vertex](https://github.com/BL4Z23/Leet/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/BL4Z23/Leet/tree/master/3903-smallest-stable-index-i) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/BL4Z23/Leet/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BL4Z23/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/BL4Z23/Leet/tree/master/0202-happy-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BL4Z23/Leet/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/BL4Z23/Leet/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
